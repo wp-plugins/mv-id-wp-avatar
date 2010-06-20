@@ -24,4 +24,4 @@ Taking inspiration from the highly pluggable nature of WordPress, "MV-ID WP Avat
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == ChangeLog ==
-* Initial release, verified compatiblity with WordPress 3.0
+* Initial release, verified compatibility with WordPress 3.0
